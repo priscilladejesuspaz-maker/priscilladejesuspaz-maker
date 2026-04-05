@@ -53,4 +53,4 @@ Hoje estou em transição para **Análise de Dados** — e o que era SQL para va
 
 ---
 
-*"Qualidade de dados não é só sobre ferramentas — é sobre o olhar que você treina para enxergar o que está errado antes de virar problema."*
+*"Qualidade de dados não é só sobre ferramentas, é sobre o olhar que você treina para enxergar o que está errado antes de virar problema."*
